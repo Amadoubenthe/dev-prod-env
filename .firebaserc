@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "myblog-developpement",
+    "prod": "myblog-production-e51f0",
+    "dev": "myblog-developpement"
+  },
+  "targets": {}
+}
